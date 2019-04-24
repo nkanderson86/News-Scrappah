@@ -1,0 +1,29 @@
+{
+  "name": "News-Scrappah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "articlesModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkanderson86/News-Scrappah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkanderson86/News-Scrappah/issues"
+  },
+  "homepage": "https://github.com/nkanderson86/News-Scrappah#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "con-logger": "0.0.5",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.5.3",
+    "morgan": "^1.9.1"
+  }
+}
